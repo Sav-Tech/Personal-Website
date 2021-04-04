@@ -1,0 +1,152 @@
+#menu {
+    list-style: none;
+    text-align: center;
+    position: fixed;
+    background-color: #FFFFFF;
+    margin: 0px;
+    right: 0;
+    left: 0;
+    top: 0;
+    box-shadow: 0px 0px 10px grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+li {
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Roboto Mono', monospace;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+footer {
+    text-align: center;
+    background: #bbb;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+iframe {
+    text-align: center;
+    margin-left: 30px;
+    width: 1200px;
+    height: 600px;
+    box-shadow: 0px 0px 10px black;
+    background-color: whitesmoke;
+}
+
+.code {
+    width: 500px;
+
+}
+
+img {
+    height: 400px;
+    padding-left: 470px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#name {
+    font-size: 50px;
+    word-spacing: 2px;
+}
+
+p {
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+#bio {
+    margin: 10px;
+
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+
+body {
+    padding: 10px 70px;
+    background-color: #C7E8F3
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#thunkable_projects {
+    color: black;
+    font-size: 20px;
+}
+
+#text {
+    font-size: 20px;
+}
+
+#writings_link {
+    color: black;
+    font-size: 25px;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center
+}
+
+#writings_image {
+    width: 100%;
+}
+
+#savya_image {
+    margin-top: 45px;
+}
+
+#sm_inner {
+    width: 80%;
+    margin: auto;
+    height: 80%;
+
+}
+
+#sm_inner h2 {
+    color: black;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+#contact_inner {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: darkgrey;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+.row{
+    display: flex;
+    width: 100%;
+    
+}
+
+.row div{
+    border: 2px solid;
+}

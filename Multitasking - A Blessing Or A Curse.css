@@ -1,0 +1,33 @@
+body,
+html {
+    padding: 0;
+    margin: 0;
+}
+
+#sidebar {
+    background-color: #444857;
+    width: 30%;
+    font-size: 18px;
+    height: 100vh;
+    position: fixed;
+    top: 5;
+    left: 5;
+    line-height: 30px;
+}
+
+#content {
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #cccccc;
+    min-height: 100vh;
+    padding-left: 35%;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    line-height: 25px;
+}
